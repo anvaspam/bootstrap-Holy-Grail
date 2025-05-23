@@ -1,0 +1,10 @@
+
+
+p, h2.blanco {
+    color:aliceblue;
+}
+
+h2 a { text-decoration: none;
+    color: inherit;
+}
+a:hover { text-decoration: underline; }
